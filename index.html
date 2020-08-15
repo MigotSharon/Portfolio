@@ -1,11 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
-    
+    <nav class="navbar">
+        <div class="logo">
+            Sharon Migot
+        </div>
+        <ul class="nav-custom">
+            <li>
+                <a class="nav-link" href="#home">Home</a>
+            </li>
+            <li>
+                <a class="nav-link" href="#about">About me</a>
+            </li>
+            <li>
+                <a class="nav-link" href="#portfolio">Portfolio</a>
+            </li>
+            <li>
+                <a class="nav-link" href="#contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- End of navigation -->
+
+    <section id="banner">
+        <div class="banner-content">
+            <h2 class="banner-title">Sharon <span class="banner-sub-title">Migot</span> </2>
+                <p>Web Designer & Web Developer</p>
+    </section>
+    <!-- End About -->
+
+    <section id="about">
+        <div class="about-me-header">
+            <h1>About Me</h1>
+        </div>
+        <div class="about-content">
+            <div class="about-img">
+                <img src="images/@SharonMigot.jpg" alt="">
+            </div>
+            <div class="about-me">
+                <h2>Personal Profile</h2>
+                <p>Sharon Migot is a a girl who finished high shool last year
+                    and then took a course in Programming at Moringa school.I did a voulnteering job at one of my former
+                    primary school.
+                    I voulnteered to teach the students Science.I took progrraming as a language because i had interest
+                    in it since high school.
+                    I find it so enjoyable because it so initiative and practical.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- End About -->
+
+    <section id="portfolio">
+        <div class="portfolio-title">
+            <h3>My Portfolio</h3>
+        </div>
+        <div class="portfolio-content">
+            <div class="project-1">
+                <h2>Migot's Resturant</h2>
+                <hr>
+                <p>A Resturant website. where user can order food and also can check the menu of different kind of food.
+                </p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                </ul>
+                <a href="https://github.com/MigotSharon/Migot-s-Restaurant" target="_blank"><button
+                        class="button">Details</button></a>
+                <a href="https://migotsharon.github.io/Migot-s-Restaurant/" target="_blank"><button
+                        class="button">Site</button></a>
+            </div>
+            <!-- End of first project -->
+            <div class="project-1">
+                <h2>mama-mboga-group</h2>
+                <hr>
+                <p>A website that creates a platform where the local business eg.the mama mboga can reach their
+                    customers faster eg. on delivery of products . </p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+                <a href="https://github.com/MigotSharon/mama-mboga-group.git" target="_blank"><button
+                        class="button">Details</button></a>
+                <a href="https://hamsoace.github.io/mama-mboga-group/" target="_blank"><button
+                        class="button">Site</button></a>
+            </div>
+            <!-- End of second project -->
+        </div>
+    </section>
+    <!-- End Portfolio -->
+    <section id="contact">
+        <h3>Contacts</h3>
+        <div class="contacts">
+            <form id="mycontacts"> 
+                <div class="row">
+                 <div class="column">
+                      <img src="./contact-background.jpg" style="width:100%">
+                </div>
+                        <div class="column">
+                            <label for="fname">First Name</label>
+                            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                            <label for="lname">Last Name</label>
+                            <input type="text" id="lname" name="lastname" placeholder="Your last name.."> 
+                            <label for="subject">Message</label>
+                           <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+                           <input type="submit" value="Submit">
+                    </div>
+                </div>    
+
+
+            </form>
+
+        </div>
+
+
+    </section>
+    <!-- End contact -->
 </body>
