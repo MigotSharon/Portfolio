@@ -1,26 +1,28 @@
 ##project name
 
-**portfolio
+* PORTFOLIO
 
 ##author name
 
-**Migot sharon
+* Migot sharon
 
-##Description
+## Description
 
-**This website was created to know me better as a programmer and the things have  i done  as a programmer
+This website was created to know me better as a programmer and the things have  i done  as a programmer.
 
-##project setup and instructions
+## project setup and instructions
 
-**My project has used two languages that is HTMl and CSS
-
-HTML describes the structure of the webpages  and have used css for the styling of the webpages.
+* HTML 5
+* CSS
+* HTML describes the structure of the webpages  and have used css for the styling of the webpages.
 
 ##Link to live site
 
-**migotsharon.github.io/portfolio/.
+* migotsharon.github.io/portfolio/.
 
 ##copy right & license
-**This project was published under the license of MigotSharon.
+* This project was published under the license of MigotSharon.
+
+
 
 
