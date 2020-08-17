@@ -143,11 +143,13 @@ body{
     border-radius: 9px;
     font-size: 20px;
 }
+
 .column{
     text-align: center;
     font-weight: bold;
     background-color:burlywood;
 }
+
 h3{
     text-align:center;
     font-weight: bolder;
