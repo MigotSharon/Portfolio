@@ -1,4 +1,9 @@
 # project name
-**portfolio
+PORTFOLIO
 ## Author
-**Migot Sharon
+Migot Sharon
+
+## Project Description
+
+
+
