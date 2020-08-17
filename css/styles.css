@@ -153,3 +153,8 @@ h3{
     background-color: burlywood;
 
 }
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: white;}}
