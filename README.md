@@ -1,6 +1,6 @@
 ## project name
 
-* PORTFOLIO
+* Sharon Migot Portfolio
 
 # author name
 
@@ -11,10 +11,13 @@
 This website was created to know me better as a programmer and the things have  i done  as a programmer.
 
 # project setup and instructions
-opened the terminal
-created a folder named portfolio
-created other folders inside the portfolio: images      folder and css folder
-Then coded.
+.opened the terminal
+
+.created a folder named portfolio
+
+.created other folders inside the portfolio: images      folder and css folder
+
+.coded
 
 
 
@@ -37,8 +40,9 @@ Then coded.
  #  LICENCE
 
 MIT LICENCE</a>
-
+This  project is licence under <a href="https://opensource.org/licenses/MIT"></a>
 copyright (c) 2020 Migot Sharon
+[MIT](https://github.com/MigotSharon/Portfolio/blob/master/LICENCE)
 
 
 
