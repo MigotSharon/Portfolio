@@ -11,6 +11,10 @@
 This website was created to know me better as a programmer and the things have  i done  as a programmer.
 
 # project setup and instructions
+opened the terminal
+created a folder named portfolio
+created other folders inside the portfolio: images      folder and css folder
+Then coded.
 
 
 
@@ -32,8 +36,7 @@ This website was created to know me better as a programmer and the things have  
 
  #  LICENCE
 
-This  project is licence under <a href="https://opensource.org/licenses/MIT"
->MIT LICENCE</a>
+MIT LICENCE</a>
 
 copyright (c) 2020 Migot Sharon
 
